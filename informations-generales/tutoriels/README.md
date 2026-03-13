@@ -3,7 +3,7 @@ description: Retrouvez divers tutoriels qui vont seront utiles pour votre aventu
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/f29IKvkA9ADiIY6IYgXo/informations-generales/tutoriels
+      https://app.gitbook.com/o/fOe7lmyX6PB5bE5kJgAC/s/ZW9MA8mldUR1LUTRDdwU/informations-generales/tutoriels
 ---
 
 # ⁉️ Tutoriels

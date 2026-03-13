@@ -3,7 +3,7 @@ description: Retrouvez ici toutes les informations afin de voter pour MinePiece
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/f29IKvkA9ADiIY6IYgXo/informations-generales/tutoriels/comment-voter-pour-mineberry
+      https://app.gitbook.com/o/fOe7lmyX6PB5bE5kJgAC/s/ZW9MA8mldUR1LUTRDdwU/informations-generales/tutoriels/comment-voter-pour-chunklock
 ---
 
 # 📓 Comment voter pour ChunkLock ?

@@ -3,7 +3,7 @@ description: Retrouvez ici toutes les questions récurrentes et la réponse à c
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/f29IKvkA9ADiIY6IYgXo/informations-generales/questions-recurrentes
+      https://app.gitbook.com/o/fOe7lmyX6PB5bE5kJgAC/s/ZW9MA8mldUR1LUTRDdwU/informations-generales/questions-recurrentes
 ---
 
 # ❔ Questions Récurrentes

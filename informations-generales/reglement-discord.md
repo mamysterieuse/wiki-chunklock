@@ -3,7 +3,7 @@ description: Retrouvez ici le règlement à respecter lorsque vous parlez sur le
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/f29IKvkA9ADiIY6IYgXo/informations-generales/reglement-discord
+      https://app.gitbook.com/o/fOe7lmyX6PB5bE5kJgAC/s/ZW9MA8mldUR1LUTRDdwU/informations-generales/reglement-discord
 ---
 
 # 🤚 Règlement Discord

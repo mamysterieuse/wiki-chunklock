@@ -1,9 +1,9 @@
 ---
-description: Retrouvez ici toutes les informations pour rejoindre MinePiece
+description: Retrouvez ici toutes les informations pour rejoindre ChunkLock
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/f29IKvkA9ADiIY6IYgXo/informations-generales/tutoriels/comment-rejoindre-mineberry
+      https://app.gitbook.com/o/fOe7lmyX6PB5bE5kJgAC/s/ZW9MA8mldUR1LUTRDdwU/informations-generales/tutoriels/comment-rejoindre-chunklock
 ---
 
 # ➡️ Comment rejoindre ChunkLock ?

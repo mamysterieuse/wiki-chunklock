@@ -1,12 +1,12 @@
 ---
 description: >-
-  Retrouvez ici le règlement à respecter lorsque vous jouez sur MinePiece. Ce
+  Retrouvez ici le règlement à respecter lorsque vous jouez sur ChunkLock. Ce
   règlement sera considéré comme lu et approuvé une fois connecté sur le
   serveur.
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/f29IKvkA9ADiIY6IYgXo/informations-generales/reglement-in-game
+      https://app.gitbook.com/o/fOe7lmyX6PB5bE5kJgAC/s/ZW9MA8mldUR1LUTRDdwU/informations-generales/reglement-in-game
 ---
 
 # 🧷 Règlement In-Game
